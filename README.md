@@ -1,2 +1,0 @@
-# ImageCaptioning
-Image captioning Model
